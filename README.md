@@ -23,7 +23,7 @@ Wiring (sesuai `diagram.json` / Wokwi):
 - Library: `LiquidCrystal I2C` (pustaka I2C untuk LCD). Juga `Wire.h` yang termasuk pada install Arduino.
 
 ### Cara menjalankan (Wokwi)
-1. Buka halaman proyek Wokwi: https://wokwi.com/projects/440361551885956097
+1. Buka halaman proyek Wokwi: https://wokwi.com/projects/441541165538392065
 2. Tekan tombol Play ▶ untuk memulai simulasi.
 3. Hasil: LCD pada simulasi akan menampilkan baris-baris lirik secara bergantian dengan delay (sesuai `sketch.ino`).
 
