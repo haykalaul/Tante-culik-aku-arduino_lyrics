@@ -48,12 +48,3 @@ Wiring (sesuai `diagram.json` / Wokwi):
 - Tambahkan tombol untuk mengganti verse/reff, atau tambahkan buzzer untuk melodi.
 - Gunakan timer non-blokir (`millis()`) agar UI lebih responsif dibanding `delay()`.
 
-### Files changed / created
-- `README.md` — (ini) penjelasan proyek singkat.
-
----
-Ringkasan: README ini menjelaskan tujuan proyek, cara mensimulasikan di Wokwi, wiring, dependensi, dan opsi perbaikan. Jika Anda mau, saya bisa:
-- Menambahkan I2C scanner kecil (`i2c_scanner.ino`) ke repositori.
-- Mengganti `delay()` dengan state-machine berbasis `millis()` untuk non-blocking display.
-
-Jika ingin saya tambahkan salah satu dari opsi di atas, beri tahu pilihan Anda dan saya akan implementasikan.
